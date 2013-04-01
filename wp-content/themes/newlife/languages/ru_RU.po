@@ -1,0 +1,297 @@
+# Copyright (C) 2012 WordPress
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress newlife\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-20 19:27+0300\n"
+"PO-Revision-Date: 2012-06-20 19:27+0300\n"
+"Last-Translator: zos <zos@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft <wp_theme@bestwebsoft.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:34
+#: search.php:25
+msgid "read more"
+msgstr "подробнее"
+
+#: index.php:38
+#: archive.php:47
+#: single.php:23
+#: category.php:35
+msgid "Continue reading"
+msgstr "Продолжение"
+
+#: index.php:39
+#: archive.php:48
+#: single.php:24
+#: category.php:36
+msgid "Pages:"
+msgstr "Страницы"
+
+#: index.php:45
+#: archive.php:54
+#: single.php:29
+#: category.php:42
+msgid "Posted in"
+msgstr "Опубликовано в"
+
+#: index.php:53
+#: archive.php:63
+#: single.php:38
+#: category.php:51
+msgid "Tagged"
+msgstr "Помеченный"
+
+#: index.php:58
+#: search.php:26
+#: archive.php:67
+#: single.php:42
+#: category.php:55
+msgid "Leave a comment"
+msgstr "Оставьте комментарий"
+
+#: index.php:58
+#: search.php:26
+#: archive.php:67
+#: single.php:42
+#: category.php:55
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: index.php:58
+#: search.php:26
+#: archive.php:67
+#: single.php:42
+#: category.php:55
+msgid "Comments"
+msgstr "Комментарии"
+
+#: index.php:58
+#: search.php:26
+#: archive.php:67
+#: single.php:42
+#: category.php:55
+msgid "Comments Off"
+msgstr "Комментарии запрещены"
+
+#: index.php:59
+#: search.php:27
+#: archive.php:68
+#: single.php:43
+#: category.php:56
+msgid "Edit"
+msgstr "Изменить"
+
+#: index.php:67
+#: search.php:34
+#: archive.php:75
+#: single.php:57
+#: category.php:63
+msgid "Newer"
+msgstr "След."
+
+#: index.php:68
+#: search.php:35
+#: archive.php:76
+#: single.php:56
+#: category.php:64
+msgid "Older"
+msgstr "Пред."
+
+#: header.php:23
+#, php-format
+msgid "Page %s"
+msgstr "Страницы %s"
+
+#: search.php:12
+msgid "Search Results for:"
+msgstr "Результаты поиска для:"
+
+#: search.php:39
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: search.php:41
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, но ничего не соответствуют критериям поиска. Пожалуйста, попробуйте еще ​​раз с некоторыми другие ключевые слова."
+
+#: front-page.php:26
+#: functions.php:161
+#: searchform.php:12
+msgid "Search ..."
+msgstr "Поиск..."
+
+#: front-page.php:54
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие посты"
+
+#: front-page.php:55
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s <span class=\"meta-nav\">Следующие посты:</span>"
+
+#: archive.php:20
+msgid "Daily Archives:"
+msgstr "Ежедневные архивы:"
+
+#: archive.php:22
+msgid "Monthly Archives:"
+msgstr "Месячные архивы:"
+
+#: archive.php:24
+msgid "Yearly Archives:"
+msgstr "Годовые архивы:"
+
+#: archive.php:26
+msgid "Blog Archives"
+msgstr "Архив блога:"
+
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Это сообщение защищено паролем. Введите пароль для просмотра комментариев."
+
+#: comments.php:27
+msgid "One Response to"
+msgstr "Один комментарий для"
+
+#: comments.php:27
+msgid "Responses to"
+msgstr "комментарии для"
+
+#: comments.php:31
+#: comments.php:42
+msgid "Older Comments"
+msgstr "Пред. комментарии"
+
+#: comments.php:32
+#: comments.php:43
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: sidebar.php:17
+msgid "Archives"
+msgstr "Архив блога:"
+
+#: sidebar.php:21
+msgid "Meta"
+msgstr "Meta"
+
+#: 404.php:14
+msgid "Page not Found"
+msgstr "Страница не найдена"
+
+#: 404.php:16
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Извините, но запрашиваемая Вами страница не найдена. Возможно, поиск поможет."
+
+#: single.php:51
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: single.php:52
+msgid "Next"
+msgstr "Следующий"
+
+#: category.php:14
+msgid "Category Archives:"
+msgstr "Категория архивов:"
+
+#: functions.php:18
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: functions.php:62
+msgid "Primary Widget Area"
+msgstr "Primary Widget Area"
+
+#: functions.php:64
+msgid "The primary widget area"
+msgstr "The primary widget area"
+
+#: functions.php:73
+msgid "Secondary Widget Area"
+msgstr "Secondary Widget Area"
+
+#: functions.php:75
+msgid "The secondary widget area"
+msgstr "Вторичные области виджета"
+
+#: functions.php:94
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">сказал:</span>"
+
+#: functions.php:97
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: functions.php:104
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s из %2$s"
+
+#: functions.php:104
+#: functions.php:121
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#: functions.php:121
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#~ msgid "Leave a Reply"
+#~ msgstr "Оставьте комментарий"
+#~ msgid "Your email address will not be published."
+#~ msgstr "Ваш электронный адрес не будет опубликован."
+#~ msgid "Required fields are marked"
+#~ msgstr "Обязательные поля помечены"
+#~ msgid "You may use these"
+#~ msgstr "Вы можете использовать эти"
+#~ msgid "tags and attributes:"
+#~ msgstr "теги и атрибуты:"
+#~ msgid "Name"
+#~ msgstr "Имя"
+#~ msgid "Name:"
+#~ msgstr "Имя:"
+#~ msgid "Email"
+#~ msgstr "E-mail"
+#~ msgid "Website"
+#~ msgstr "Веб-сайт"
+#~ msgid "Comment"
+#~ msgstr "Комментарий"
+#~ msgid "Logged in as"
+#~ msgstr "Вы вошли как"
+#~ msgid "Log out?"
+#~ msgstr "Выйти?"
+#~ msgid "Post Comment"
+#~ msgstr "Оставить комментарий"
+#~ msgid "Reply"
+#~ msgstr "Ответить"
+#~ msgid "Design by:"
+#~ msgstr "Дизайн:"
+#~ msgid "free web templates"
+#~ msgstr "бесплатные веб-шаблоны"
+#~ msgid "and partners:"
+#~ msgstr "и партнеры:"
+#~ msgid "web hosting"
+#~ msgstr "веб-хостинг"
+#~ msgid "php forms"
+#~ msgstr "php формы"
+#~ msgid "Technologies"
+#~ msgstr "Технологии"
+#~ msgid "See photo"
+#~ msgstr "Посмотреть"
+

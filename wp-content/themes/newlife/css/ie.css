@@ -1,0 +1,14 @@
+*html #conteiner{
+	text-align:center;
+	width:1037px;
+}
+*html body{
+	text-align:center;
+}
+
+*html #colophon{
+	text-align:center;
+}
+*html #logo{
+	margin-left:10px;
+}

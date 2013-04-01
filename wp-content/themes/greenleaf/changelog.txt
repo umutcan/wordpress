@@ -1,0 +1,32 @@
+
+Version 1.62
+June 8, 2011
+- Logo upload
+- Full page template
+- Mobile recognition bug fix
+- CSS tweaks
+
+Version 1.53
+January 4, 2012
+
+Version 1.52
+December 26, 2011
+- Mobile friendly version
+- WordPress 3.3 updates
+
+Version 1.0
+September 25, 2011
+- Google Analytics integration
+- CSS tweaks
+- bug fixes
+
+Version 0.97
+June 14, 2011
+- bug fixes - http://themes.trac.wordpress.org/ticket/4196
+
+Version 0.95
+June 7, 2011
+- bug fixes - http://themes.trac.wordpress.org/ticket/4096
+
+Version 0.9
+May 27, 2011

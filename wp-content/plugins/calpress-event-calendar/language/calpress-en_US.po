@@ -1,0 +1,1231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CalPress Calendar v1.4.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-11-12 15:33:03+0000\n"
+"Last-Translator: admin <test@test.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: app/controller/class-calp-app-controller.php:429
+#: app/controller/class-calp-app-controller.php:430
+#@ calpress
+msgid "Settings"
+msgstr ""
+
+#: app/controller/class-calp-calendar-controller.php:313
+#, php-format
+#@ calpress
+msgid "%s , %s"
+msgstr ""
+
+#. translators: "%s" represents the week's starting date
+#: app/controller/class-calp-calendar-controller.php:382
+#, php-format
+#@ calpress
+msgid "Week of %s"
+msgstr ""
+
+#: app/controller/class-calp-calendar-controller.php:382
+#@ calpress
+msgid "F j"
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:149
+#@ calpress
+msgid "This feed is already being imported."
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:150
+#@ calpress
+msgid "Please enter a valid iCalendar URL."
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:416
+#, php-format
+#@ calpress
+msgid "Event updated. <a href=\"%s\">View event</a>"
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:417
+#@ calpress
+msgid "Custom field updated."
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:418
+#@ calpress
+msgid "Custom field deleted."
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:419
+#@ calpress
+msgid "Event updated."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: app/controller/class-calp-events-controller.php:421
+#, php-format
+#@ calpress
+msgid "Event restored to revision from %s"
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:422
+#, php-format
+#@ calpress
+msgid "Event published. <a href=\"%s\">View event</a>"
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:423
+#@ default
+msgid "Event saved."
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:424
+#, php-format
+#@ calpress
+msgid "Event submitted. <a target=\"_blank\" href=\"%s\">Preview event</a>"
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:425
+#, php-format
+#@ calpress
+msgid "Event scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview event</a>"
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:427
+#@ calpress
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:428
+#, php-format
+#@ calpress
+msgid "Event draft updated. <a target=\"_blank\" href=\"%s\">Preview event</a>"
+msgstr ""
+
+#: app/controller/class-calp-importer-controller.php:91
+#@ calpress
+msgid "The Events Calendar → All-in-One Event Calendar"
+msgstr ""
+
+#: app/controller/class-calp-importer-controller.php:92
+#@ calpress
+msgid "Imports events created using The Events Calendar plugin into the All-in-One Event Calendar"
+msgstr ""
+
+#: app/controller/class-calp-settings-controller.php:82
+#@ calpress
+msgid "Settings Updated."
+msgstr ""
+
+#: app/controller/class-calp-settings-controller.php:173
+#, php-format
+#@ calpress
+msgid "Flushed %d events"
+msgstr ""
+
+#: app/controller/class-calp-settings-controller.php:181
+#: app/controller/class-calp-settings-controller.php:231
+#@ calpress
+msgid "Invalid ICS feed ID"
+msgstr ""
+
+#: app/controller/class-calp-settings-controller.php:216
+#@ calpress
+msgid "No events were found"
+msgstr ""
+
+#: app/controller/class-calp-settings-controller.php:221
+#, php-format
+#@ calpress
+msgid "Imported %d events"
+msgstr ""
+
+#: app/controller/class-calp-settings-controller.php:222
+#: app/view/feed_row.php:22
+#, php-format
+#@ calpress
+msgid "Flush 1 event"
+msgid_plural "Flush %s events"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/controller/class-calp-settings-controller.php:274
+#@ calpress
+msgctxt "meta box"
+msgid "General Settings"
+msgstr ""
+
+#: app/controller/class-calp-settings-controller.php:281
+#@ calpress
+msgctxt "meta box"
+msgid "ICS Import Settings"
+msgstr ""
+
+#: app/controller/class-calp-settings-controller.php:332
+#, php-format
+#@ calpress
+msgid "<a href=\"%s\">Settings</a>"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:147
+#@ calpress
+msgctxt "Custom post type name"
+msgid "Events"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:148
+#@ calpress
+msgctxt "Custom post type name (singular)"
+msgid "Event"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:149
+#@ calpress
+msgid "Add New"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:150
+#@ calpress
+msgid "Add New Event"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:151
+#@ calpress
+msgid "Edit Event"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:152
+#@ calpress
+msgid "New Event"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:153
+#@ calpress
+msgid "View Event"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:154
+#@ calpress
+msgid "Search Events"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:155
+#@ calpress
+msgid "No Events found"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:156
+#@ calpress
+msgid "No Events found in Trash"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:157
+#@ calpress
+msgid "Parent Event"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:158
+#: app/view/class-calp-agenda-widget.php:18
+#: app/view/class-calp-agenda-widget.php:46
+#@ calpress
+msgid "CalPress Events"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:204
+#@ calpress
+msgctxt "Event categories taxonomy"
+msgid "Event Categories"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:205
+#@ calpress
+msgctxt "Event categories taxonomy (singular)"
+msgid "Event Category"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:212
+#@ calpress
+msgctxt "Event tags taxonomy"
+msgid "Event Tags"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:213
+#@ calpress
+msgctxt "Event tags taxonomy (singular)"
+msgid "Event Tag"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:337
+#@ calpress
+msgid "All Events"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:331
+#, php-format
+#@ calpress
+msgid "All Events <span class=\"update-plugins count-%d\" title=\"%d Pending Events\"><span class=\"update-count\">%d</span></span>"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:414
+#@ calpress
+msgid "Event Details"
+msgstr ""
+
+#: app/view/event-popup.php:45
+#: app/view/today.php:62
+#@ calpress
+msgid "Venue"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:447
+#@ calpress
+msgid "Post Date"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:667
+#, php-format
+#@ calpress
+msgid "%sTo set up the plugin: %s 1. Select an option in the <strong>Calendar page</strong> dropdown list. %s 2. Select an option in the <strong>Timezone</strong> dropdown list. %s 3. Click <strong>Update Settings</strong>. %s"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:669
+#@ calpress
+msgid "To set up the plugin: Select an option in the <strong>Calendar page</strong> dropdown list, the click <strong>Update Settings</strong>."
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:671
+#@ calpress
+msgid "To set up the plugin: Select an option in the <strong>Timezone</strong> dropdown list, the click <strong>Update Settings</strong>."
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:675
+#, php-format
+#@ calpress
+msgid "The plugin is installed, but has not been configured. <a href=\"%s\">Click here to set it up now »</a>"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:681
+#@ calpress
+msgid "The plugin is installed, but has not been configured. Please log in as a WordPress Administrator to set it up."
+msgstr ""
+
+#. translators: "%s" represents the week's starting date
+#: app/helper/class-calp-calendar-helper.php:1343
+#, php-format
+#@ calpress
+msgid "%s - %s"
+msgstr ""
+
+#: app/helper/class-calp-calendar-helper.php:1344
+#: app/helper/class-calp-calendar-helper.php:1345
+#@ calpress
+msgid "M j"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:319
+#: app/helper/class-calp-events-helper.php:341
+#@ calpress
+msgid "No repeat"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:320
+#: app/helper/class-calp-events-helper.php:342
+#@ calpress
+msgid "Every day"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:321
+#: app/helper/class-calp-events-helper.php:343
+#@ calpress
+msgid "Every week"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:322
+#: app/helper/class-calp-events-helper.php:344
+#@ calpress
+msgid "Every month"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:323
+#: app/helper/class-calp-events-helper.php:345
+#@ calpress
+msgid "Every year"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:325
+#: app/helper/class-calp-events-helper.php:347
+#@ calpress
+msgid "Custom..."
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:468
+#@ calpress
+msgid "first"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:469
+#@ calpress
+msgid "second"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:470
+#@ calpress
+msgid "third"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:471
+#@ calpress
+msgid "fourth"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:473
+#@ calpress
+msgid "last"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:478
+#@ calpress
+msgid "Sunday"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:479
+#@ calpress
+msgid "Monday"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:480
+#@ calpress
+msgid "Tuesday"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:481
+#@ calpress
+msgid "Wednesday"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:482
+#@ calpress
+msgid "Thursday"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:483
+#@ calpress
+msgid "Friday"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:484
+#@ calpress
+msgid "Saturday"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:486
+#@ calpress
+msgid "day"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:487
+#@ calpress
+msgid "weekday"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:488
+#@ calpress
+msgid "weekend day"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:554
+#: app/helper/class-calp-events-helper.php:573
+#: app/helper/class-calp-events-helper.php:1460
+#: app/helper/class-calp-settings-helper.php:272
+#: app/view/box_time_and_date.php:58
+#@ calpress
+msgid "Daily"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:555
+#: app/helper/class-calp-events-helper.php:574
+#: app/helper/class-calp-events-helper.php:1472
+#: app/view/box_time_and_date.php:59
+#@ calpress
+msgid "Weekly"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:556
+#: app/helper/class-calp-events-helper.php:575
+#: app/helper/class-calp-events-helper.php:1484
+#: app/view/box_time_and_date.php:60
+#@ calpress
+msgid "Monthly"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:557
+#: app/helper/class-calp-events-helper.php:576
+#: app/helper/class-calp-events-helper.php:1496
+#: app/view/box_time_and_date.php:61
+#@ calpress
+msgid "Yearly"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:598
+#@ calpress
+msgid "day(s)"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:627
+#@ calpress
+msgid "week(s)"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:679
+#@ calpress
+msgid "month(s)"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:700
+#@ calpress
+msgid "year(s)"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1268
+#@ calpress
+msgid "Never"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1269
+#@ calpress
+msgid "After"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1270
+#: app/view/box_time_and_date.php:84
+#@ calpress
+msgid "On date"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1349
+#: app/helper/class-calp-events-helper.php:1358
+#: app/helper/class-calp-events-helper.php:1366
+#@ calpress
+msgctxt "Recurrence editor - weekly tab"
+msgid "on"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1354
+#: app/helper/class-calp-events-helper.php:1383
+#: app/helper/class-calp-events-helper.php:1411
+#@ calpress
+msgid "and"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1379
+#: app/helper/class-calp-events-helper.php:1386
+#: app/helper/class-calp-events-helper.php:1392
+#@ calpress
+msgctxt "Recurrence editor - monthly tab"
+msgid "on"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1379
+#: app/helper/class-calp-events-helper.php:1386
+#: app/helper/class-calp-events-helper.php:1392
+#@ calpress
+msgid "of the month"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1406
+#: app/helper/class-calp-events-helper.php:1414
+#: app/helper/class-calp-events-helper.php:1421
+#@ calpress
+msgctxt "Recurrence editor - yearly tab"
+msgid "on"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1463
+#@ calpress
+msgid "Every other day"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1465
+#, php-format
+#@ calpress
+msgid "Every %d days"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1475
+#@ calpress
+msgid "Every other week"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1477
+#, php-format
+#@ calpress
+msgid "Every %d weeks"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1487
+#@ calpress
+msgid "Every other month"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1489
+#, php-format
+#@ calpress
+msgid "Every %d months"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1499
+#@ calpress
+msgid "Every other year"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1501
+#, php-format
+#@ calpress
+msgid "Every %d years"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1521
+#, php-format
+#@ calpress
+msgid "until %s"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1524
+#, php-format
+#@ calpress
+msgid "for %d occurrences"
+msgstr ""
+
+#: app/helper/class-calp-events-helper.php:1526
+#@ calpress
+msgid "forever"
+msgstr ""
+
+#: app/controller/class-calp-events-controller.php:291
+#@ calpress
+msgid "times"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:85
+#@ calpress
+msgid "- Auto-Create New Page -"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:107
+#, php-format
+#@ calpress
+msgid "View \"%s\" »"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:149
+#: app/view/calendar.php:161
+#@ calpress
+msgid "Month"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:152
+#: app/view/calendar.php:154
+#@ calpress
+msgid "Week"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:155
+#@ calpress
+msgid "Agenda"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:158
+#: app/view/calendar.php:228
+#: app/view/month.php:15
+#@ calpress
+msgid "Today"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:239
+#@ calpress
+msgid "Default (d/m/y)"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:242
+#@ calpress
+msgid "US (m/d/y)"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:245
+#@ calpress
+msgid "ISO 8601 (y-m-d)"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:248
+#@ calpress
+msgid "Dotted (m.d.y)"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:266
+#@ calpress
+msgid "Hourly"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:269
+#@ calpress
+msgid "Twice Daily"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:356
+#@ calpress
+msgid "Calendar"
+msgstr ""
+
+#: app/view/agenda-widget-form.php:88
+#@ calpress
+msgid "Events"
+msgstr ""
+
+#: app/model/class-calp-event.php:458
+#: app/view/agenda_list.php:47
+#@ calpress
+msgid " (all-day)"
+msgstr ""
+
+#: app/view/admin_notices.php:2
+#@ calpress
+msgid "Calpress Notice:"
+msgstr ""
+
+#: app/view/agenda-widget-ajax-view.php:10
+#: app/view/agenda-widget.php:12
+#@ calpress
+msgid "Calpress Events"
+msgstr ""
+
+#: app/view/agenda-widget-ajax-view.php:17
+#: app/view/agenda-widget.php:19
+#@ calpress
+msgid "There are no events."
+msgstr ""
+
+#: app/view/agenda-widget-ajax-view.php:44
+#: app/view/agenda-widget.php:46
+#@ calpress
+msgid "(all-day)"
+msgstr ""
+
+#: app/view/agenda-widget-ajax-view.php:47
+#: app/view/agenda-widget.php:49
+#@ calpress
+msgid "View Details"
+msgstr ""
+
+#: app/view/agenda-widget-ajax-view.php:104
+#: app/view/agenda-widget.php:106
+#@ default
+msgid "View Calendar"
+msgstr ""
+
+#: app/view/agenda-widget-form.php:2
+#@ calpress
+msgid "Title:"
+msgstr ""
+
+#: app/view/agenda-widget-form.php:6
+#@ calpress
+msgid "Number of events to show:"
+msgstr ""
+
+#: app/view/agenda-widget-form.php:14
+#@ calpress
+msgid "Events with these <strong>Categories</strong>"
+msgstr ""
+
+#: app/view/agenda-widget-form.php:27
+#@ calpress
+msgid "<strong>Or</strong> events with these <strong>Tags</strong>"
+msgstr ""
+
+#: app/view/agenda-widget-form.php:40
+#@ calpress
+msgid "<strong>Or</strong> any of these <strong>Events</strong>"
+msgstr ""
+
+#: app/view/agenda-widget-form.php:53
+#@ calpress
+msgid "Show <strong>View Calendar</strong> button"
+msgstr ""
+
+#: app/view/agenda-widget-form.php:56
+#@ calpress
+msgid "Hide this widget on calendar page"
+msgstr ""
+
+#: app/view/agenda-widget-form.php:59
+#@ calpress
+msgid "Show mini calendar navigator"
+msgstr ""
+
+#: app/view/agenda-widget-form.php:66
+#@ calpress
+msgid "Categories"
+msgstr ""
+
+#: app/view/agenda-widget-form.php:77
+#@ calpress
+msgid "Tags"
+msgstr ""
+
+#: app/view/agenda.php:13
+#: app/view/agenda.php:75
+#: app/view/agenda_search.php:13
+#: app/view/agenda_search.php:68
+#: app/view/today.php:41
+#@ calpress
+msgid "No Events"
+msgstr ""
+
+#: app/view/agenda.php:41
+#: app/view/agenda_list.php:44
+#: app/view/agenda_list.php:50
+#: app/view/agenda_search.php:39
+#: app/view/event-popup.php:56
+#: app/view/event-popup.php:61
+#: app/view/search.php:26
+#: app/view/today.php:70
+#@ calpress
+#@ default
+msgid "to"
+msgstr ""
+
+#: app/view/agenda.php:43
+#@ calpress
+msgid "all-day"
+msgstr ""
+
+#: app/view/agenda.php:77
+#@ calpress
+msgid "No Upcoming Events"
+msgstr ""
+
+#: app/view/agenda_list.php:13
+#@ calpress
+msgid "Show on map"
+msgstr ""
+
+#: app/view/calendar.php:25
+#: app/view/event-popup.php:25
+#@ calpress
+#@ default
+msgid "Show map"
+msgstr ""
+
+#: app/view/box_event_contact.php:1
+#@ calpress
+msgid "Organizer contact info"
+msgstr ""
+
+#: app/view/box_event_contact.php:7
+#@ calpress
+msgid "Contact name:"
+msgstr ""
+
+#: app/view/box_event_contact.php:17
+#@ calpress
+msgid "Phone:"
+msgstr ""
+
+#: app/view/box_event_contact.php:27
+#@ calpress
+msgid "E-mail:"
+msgstr ""
+
+#: app/view/box_event_cost.php:1
+#@ calpress
+msgid "Event cost"
+msgstr ""
+
+#: app/view/box_event_cost.php:7
+#@ calpress
+msgid "Cost"
+msgstr ""
+
+#: app/view/box_event_location.php:1
+#@ calpress
+msgid "Event location details"
+msgstr ""
+
+#: app/view/box_event_location.php:7
+#@ calpress
+msgid "Venue name:"
+msgstr ""
+
+#: app/view/box_event_location.php:17
+#@ calpress
+msgid "Address:"
+msgstr ""
+
+#: app/view/box_event_location.php:27
+#@ calpress
+msgid "Show Google Map:"
+msgstr ""
+
+#: app/view/box_general_settings.php:1
+#@ calpress
+msgid "Viewing Events"
+msgstr ""
+
+#: app/view/box_general_settings.php:3
+#@ calpress
+msgid "Calendar page:"
+msgstr ""
+
+#: app/view/box_general_settings.php:7
+#@ calpress
+msgid "Default calendar view:"
+msgstr ""
+
+#: app/view/box_general_settings.php:16
+#@ calpress
+msgid "Timezone:"
+msgstr ""
+
+#: app/view/box_general_settings.php:21
+#@ calpress
+msgid "Week starts on"
+msgstr ""
+
+#: app/view/box_general_settings.php:25
+#@ calpress
+msgid "Agenda pages show at most"
+msgstr ""
+
+#: app/view/box_general_settings.php:26
+#: app/view/search.php:40
+#: app/view/search.php:43
+#: app/view/search.php:46
+#@ calpress
+msgid "events"
+msgstr ""
+
+#: app/view/box_general_settings.php:29
+#@ calpress
+msgid "Adding/Editing Events"
+msgstr ""
+
+#: app/view/box_general_settings.php:31
+#@ calpress
+msgid "Input dates in this format:"
+msgstr ""
+
+#: app/view/box_general_settings.php:37
+#@ calpress
+msgid "Use <strong>24h time</strong> in time pickers"
+msgstr ""
+
+#: app/view/box_general_settings.php:43
+#@ calpress
+msgid "Use the configured <strong>region</strong> (WordPress locale) to bias the address autocomplete function"
+msgstr ""
+
+#: app/view/box_ics_import_settings.php:2
+#@ calpress
+msgid "Warning - please note that not all calendars use the latest and correct implementation of the ics format. Please double check your imported calendars to verify that they have imported correctly"
+msgstr ""
+
+#: app/view/box_ics_import_settings.php:6
+#@ calpress
+msgid "Auto-refresh"
+msgstr ""
+
+#: app/view/box_ics_import_settings.php:12
+#: app/view/feed_row.php:3
+#@ calpress
+msgid "iCalendar/.ics Feed URL:"
+msgstr ""
+
+#: app/view/box_ics_import_settings.php:16
+#@ calpress
+msgid "Event category"
+msgstr ""
+
+#: app/view/box_ics_import_settings.php:22
+#: app/view/feed_row.php:15
+#@ calpress
+msgid "Tag with"
+msgstr ""
+
+#: app/view/box_ics_import_settings.php:26
+#@ calpress
+msgid "+ Add new subscription"
+msgstr ""
+
+#: app/view/box_time_and_date.php:70
+#@ calpress
+msgid "End"
+msgstr ""
+
+#: app/view/box_time_and_date.php:77
+#@ calpress
+msgid "Ending after"
+msgstr ""
+
+#: app/view/box_time_and_date.php:92
+#@ calpress
+msgid "Apply"
+msgstr ""
+
+#: app/view/box_time_and_date.php:93
+#@ calpress
+msgid "Cancel"
+msgstr ""
+
+#: app/view/box_time_and_date.php:2
+#@ calpress
+msgid "Event date and time"
+msgstr ""
+
+#: app/view/box_time_and_date.php:8
+#@ calpress
+msgid "All-day event"
+msgstr ""
+
+#: app/view/box_time_and_date.php:18
+#@ calpress
+msgid "Start date / time"
+msgstr ""
+
+#: app/view/box_time_and_date.php:31
+#@ calpress
+msgid "End date / time"
+msgstr ""
+
+#: app/view/box_time_and_date.php:46
+#@ calpress
+msgid "Repeat"
+msgstr ""
+
+#: app/view/calendar.php:20
+#@ calpress
+msgid "Hide map"
+msgstr ""
+
+#: app/view/calendar.php:54
+#@ calpress
+msgid "Results"
+msgstr ""
+
+#: app/view/calendar.php:81
+#@ calpress
+msgid "Calendar "
+msgstr ""
+
+#: app/view/calendar.php:92
+#@ calpress
+msgid "Show Calendars"
+msgstr ""
+
+#: app/view/calendar.php:110
+#@ calpress
+msgid "Hide All Calendars"
+msgstr ""
+
+#: app/view/calendar.php:147
+#@ calpress
+msgid "Day"
+msgstr ""
+
+#: app/view/calendar.php:168
+#@ calpress
+msgid "List"
+msgstr ""
+
+#: app/view/class-calp-agenda-widget.php:20
+#@ calpress
+msgid "CalPress: Lists of the upcoming events"
+msgstr ""
+
+#: app/view/event-excerpt.php:2
+#@ calpress
+msgid "When:"
+msgstr ""
+
+#: app/view/event-excerpt.php:4
+#@ calpress
+msgid "Where:"
+msgstr ""
+
+#: app/view/event-popup.php:37
+#@ calpress
+msgid "Address Not Available"
+msgstr ""
+
+#: app/view/event-popup.php:50
+#: app/view/today.php:67
+#@ calpress
+msgid "When"
+msgstr ""
+
+#: app/view/event-popup.php:53
+#@ calpress
+msgid " (all-day) "
+msgstr ""
+
+#: app/view/event-popup.php:69
+#: app/view/today.php:76
+#@ calpress
+msgid "Notes"
+msgstr ""
+
+#: app/view/event-popup.php:79
+#@ calpress
+msgid "Read more"
+msgstr ""
+
+#: app/view/event-popup.php:86
+#@ calpress
+msgid "Open in Google Maps"
+msgstr ""
+
+#: app/view/event_categories-color_picker.php:5
+#: app/view/event_categories-color_picker.php:19
+#@ calpress
+msgid "Category Color"
+msgstr ""
+
+#: app/view/event_categories-color_picker.php:13
+#: app/view/event_categories-color_picker.php:25
+#@ calpress
+msgid "Events in this category will be identified by this color"
+msgstr ""
+
+#: app/view/feed_row.php:9
+#@ calpress
+msgid "Event category:"
+msgstr ""
+
+#: app/view/feed_row.php:19
+#@ calpress
+msgid "× Delete"
+msgstr ""
+
+#: app/view/feed_row.php:20
+#@ calpress
+msgid "Update"
+msgstr ""
+
+#: app/view/import.php:6
+#@ calpress
+msgid "Successfully imported events:"
+msgstr ""
+
+#: app/view/row_daily.php:3
+#: app/view/row_monthly.php:3
+#: app/view/row_weekly.php:3
+#: app/view/row_yearly.php:3
+#@ calpress
+msgid "Every"
+msgstr ""
+
+#: app/view/row_weekly.php:6
+#@ calpress
+msgctxt "Recurrence editor - weekly tab"
+msgid "On"
+msgstr ""
+
+#: app/view/row_yearly.php:7
+#@ calpress
+msgctxt "Recurrence editor - yearly tab"
+msgid "In"
+msgstr ""
+
+#: app/view/search.php:37
+#@ calpress
+msgid "Another"
+msgstr ""
+
+#: app/view/search.php:38
+#: app/view/search.php:42
+#@ calpress
+msgid "older"
+msgstr ""
+
+#: app/view/search.php:39
+#@ calpress
+msgid "upcoming"
+msgstr ""
+
+#: app/view/settings.php:5
+#@ calpress
+msgid "CalPress Event Calendar"
+msgstr ""
+
+#: app/view/settings.php:16
+#@ calpress
+msgid "Update Settings"
+msgstr ""
+
+#: app/view/today.php:104
+#@ calpress
+msgid "all-day events"
+msgstr ""
+
+#: app/view/calendar.php:37
+#@ calpress
+msgid "Show All Calanders"
+msgstr ""
+
+#: app/view/calendar.php:41
+#@ calpress
+msgid "Hide All Calanders"
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:280
+#@ calpress
+msgid "Show All "
+msgstr ""
+
+#: app/helper/class-calp-app-helper.php:448
+#@ calpress
+msgid "Event date/time"
+msgstr ""
+
+#: app/view/row_monthly.php:7
+#@ calpress
+msgid "Each"
+msgstr ""
+
+#: app/view/select_style_meta_box.php:35
+#@ calpress
+msgid "Style List"
+msgstr ""
+
+#: app/view/calendar.php:175
+#@ calpress
+msgid "Search"
+msgstr ""
+
+#: app/view/calendar.php:184
+#@ calpress
+msgid "Click here to toggle full-screen mode on/off"
+msgstr ""
+
+#: app/helper/class-calp-settings-helper.php:175
+#@ calpress
+msgid "Default"
+msgstr ""
+
+#: app/view/box_general_settings.php:11
+#@ calpress
+msgid "Calendar theme:"
+msgstr ""
+
