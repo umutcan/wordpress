@@ -1,0 +1,1026 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: voyage104\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-19 14:16-0600\n"
+"PO-Revision-Date: 2013-02-19 14:16-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ..\\..\\voyage-bbp\n"
+
+#: ../archive.php:25
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "按日查看： %s"
+
+#: ../archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "按月查看： %s"
+
+#: ../archive.php:29
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "按年查看： %s"
+
+#: ../archive.php:31
+msgid "Blog Archives"
+msgstr "博客文章归档"
+
+#: ../author.php:19
+#, php-format
+msgid "Author Archives: %s"
+msgstr "作者文章归档: %s"
+
+#: ../author.php:32 ../inc/lib-content.php:87
+#, php-format
+msgid "About %s"
+msgstr "%s的简历 "
+
+#: ../category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr "分类文章归档: %s"
+
+#: ../comments.php:18
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "文章已被锁定，请输入密码查看评论。"
+
+#: ../comments.php:34 ../comments.php:48
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: ../comments.php:35 ../comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; 较早评论"
+
+#: ../comments.php:36 ../comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 &rarr;"
+
+#: ../comments.php:60
+msgid "Comments are closed."
+msgstr "评论已关闭"
+
+#: ../content-aside.php:19 ../content-image.php:20 ../content.php:23
+msgid ""
+"<span class=\"more-link btn btn-small\">read more<span class=\"meta-nav\"></"
+"i></span></span>"
+msgstr ""
+"<span class=\"more-link btn btn-small\">全文<span class=\"meta-nav\"></i></"
+"span></span>"
+
+#: ../content-featured-blog.php:9 ../content-featured-blog.php:11
+#: ../content-featured-blog.php:19 ../content-featured-blog.php:25
+#: ../content-featured.php:11 ../content-featured.php:13
+#: ../content-featured.php:22 ../content-featured.php:40
+#: ../content-featured.php:49 ../content-featured.php:57
+#: ../content-summary.php:20 ../content-summary.php:25
+#: ../inc/lib-content.php:66
+#, php-format
+msgid "Permalink to %s"
+msgstr "%s的固定链接"
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr "页面未找到"
+
+#: ../content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布您的第一篇文章了吗？<a href=\"%1$s\">从这里开始</a>."
+
+#: ../content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "很抱歉，没有符合您的搜索字词。请再次尝试一些不同的关键字。"
+
+#: ../content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "我们找不到你要找的。也许搜索可以帮助你."
+
+#: ../content-page.php:25 ../content.php:25 ../image.php:88
+msgid "Pages:"
+msgstr "分页:"
+
+#: ../content-page.php:29 ../functions.php:325 ../functions.php:348
+#: ../functions.php:624 ../functions.php:644 ../image.php:36
+msgid "[Edit]"
+msgstr "[编辑]"
+
+#: ../footer.php:31
+msgid "Powered By "
+msgstr "采用"
+
+#: ../footer.php:32
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../footer.php:33
+msgid " | "
+msgstr ""
+
+#: ../footer.php:34
+msgid "http://www.voyagebc.com/voyagetheme"
+msgstr ""
+
+#: ../footer.php:37
+msgid " TOP"
+msgstr " 回顶部"
+
+#: ../functions.php:68
+msgid "Top Menu"
+msgstr "顶部菜单"
+
+#: ../functions.php:69
+msgid "Section Menu"
+msgstr "分章菜单"
+
+#: ../functions.php:70
+msgid "Subsection Menu"
+msgstr "分节菜单"
+
+#: ../functions.php:71
+msgid "Footer Menu"
+msgstr "底部菜单"
+
+#: ../functions.php:123
+msgid "Logo"
+msgstr "徽标或者商标"
+
+#: ../functions.php:265
+msgid "read more"
+msgstr "全文"
+
+#: ../functions.php:325
+msgid "Pingback:"
+msgstr "引用:"
+
+#: ../functions.php:335
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">says:</span>"
+
+#: ../functions.php:338
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:346
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: ../functions.php:377 ../functions.php:379
+msgid "Header Widget Area"
+msgstr ""
+
+#: ../functions.php:387 ../functions.php:389
+msgid "Blog Widget Area 1"
+msgstr ""
+
+#: ../functions.php:398 ../functions.php:400
+msgid "Blog Widget Area 2"
+msgstr ""
+
+#: ../functions.php:409 ../functions.php:411
+msgid "Home Widget Area 1"
+msgstr ""
+
+#: ../functions.php:418 ../functions.php:420
+msgid "Home Widget Area 2"
+msgstr ""
+
+#: ../functions.php:427 ../functions.php:429
+msgid "Home Widget Area 3"
+msgstr ""
+
+#: ../functions.php:436 ../functions.php:438
+msgid "Home Widget Area 4"
+msgstr ""
+
+#: ../functions.php:447 ../functions.php:449
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: ../functions.php:457 ../functions.php:459
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: ../functions.php:467 ../functions.php:469
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: ../functions.php:477 ../functions.php:479
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: ../functions.php:504 ../functions.php:518
+msgid " &bull; "
+msgstr ""
+
+#: ../functions.php:509
+msgid "Posted in"
+msgstr ""
+
+#: ../functions.php:523
+msgid "Tagged"
+msgstr ""
+
+#: ../functions.php:537
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../functions.php:539
+msgid "By "
+msgstr "作者:"
+
+#: ../functions.php:548
+#, php-format
+msgid "<time class=\"entry-date\" datetime=\"%1$s\">%2$s</time>"
+msgstr ""
+
+#: ../functions.php:563 ../functions.php:641
+msgid "1 Comment"
+msgstr "1 条评论"
+
+#: ../functions.php:563 ../functions.php:641
+msgid "% Comments"
+msgstr "%条评论"
+
+#: ../functions.php:592
+msgid "Featured "
+msgstr "头条"
+
+#: ../functions.php:620
+#, php-format
+msgid ""
+" <a href=\"%1$s\" title=\"Permalink to %2$s\" rel=\"bookmark\">Permalink</a>"
+msgstr ""
+"<a href=\"%1$s\" title=\"%2$s的固定链接\" rel=\"bookmark\">固定链接</a>"
+
+#: ../functions.php:641
+msgid "Reply"
+msgstr "回复"
+
+#: ../functions.php:696
+msgid "Page"
+msgstr "分页:"
+
+#: ../image.php:25
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span><span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../image.php:39
+msgid "Previous"
+msgstr ""
+
+#: ../image.php:40
+msgid "Next"
+msgstr ""
+
+#: ../search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:11
+msgid "Search"
+msgstr "搜索"
+
+#: ../single-fullwidth.php:18 ../single.php:17
+msgid "Post navigation"
+msgstr ""
+
+#: ../tag.php:22
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../inc/lib-content.php:15
+msgid "Skip to content"
+msgstr ""
+
+#: ../inc/lib-content.php:90
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\"></span>"
+msgstr ""
+
+#: ../inc/lib-content.php:159 ../inc/widgets.php:354
+msgid "Categories"
+msgstr "分类"
+
+#: ../inc/lib-content.php:160 ../inc/widgets.php:357
+msgid "Archives"
+msgstr "文章归档"
+
+#: ../inc/lib-content.php:161 ../inc/widgets.php:363
+msgid "Tags"
+msgstr "标签"
+
+#: ../inc/lib-content.php:194
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/social.php:18 ../inc/social.php:50
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/social.php:23 ../inc/social.php:58
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/social.php:28 ../inc/social.php:66
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/social.php:33
+msgid "Google+"
+msgstr ""
+
+#: ../inc/social.php:38
+msgid "RSS Feed"
+msgstr ""
+
+#: ../inc/social.php:74
+msgid "Google"
+msgstr ""
+
+#: ../inc/theme-options.php:34 ../inc/theme-options.php:443
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/theme-options.php:117
+msgid "Home Page Style"
+msgstr ""
+
+#: ../inc/theme-options.php:123
+msgid "Featured Home"
+msgstr ""
+
+#: ../inc/theme-options.php:124 ../inc/theme-options.php:504
+msgid "Landing Page"
+msgstr ""
+
+#: ../inc/theme-options.php:125
+msgid "Blog Full Posts"
+msgstr ""
+
+#: ../inc/theme-options.php:126
+msgid "Blog Summaries"
+msgstr ""
+
+#: ../inc/theme-options.php:127 ../inc/theme-options.php:521
+msgid "Featured Blog"
+msgstr ""
+
+#: ../inc/theme-options.php:133
+msgid "H1 Headline"
+msgstr ""
+
+#: ../inc/theme-options.php:137
+msgid "Hello, World!"
+msgstr ""
+
+#: ../inc/theme-options.php:141
+msgid "Tag lines"
+msgstr ""
+
+#: ../inc/theme-options.php:146
+msgid ""
+"This is your landing page. The headline, tagline and media content can be "
+"changed in theme options."
+msgstr ""
+
+#: ../inc/theme-options.php:150
+msgid "Media Content"
+msgstr ""
+
+#: ../inc/theme-options.php:154
+msgid "Use HTML or shortcode to add content."
+msgstr ""
+
+#: ../inc/theme-options.php:159
+msgid "Action Button"
+msgstr ""
+
+#: ../inc/theme-options.php:162 ../inc/theme-options.php:242
+msgid "Learn More"
+msgstr "了解更多"
+
+#: ../inc/theme-options.php:163
+msgid "Label for action button on Landing Page."
+msgstr ""
+
+#: ../inc/theme-options.php:167
+msgid "Action URL"
+msgstr ""
+
+#: ../inc/theme-options.php:176
+msgid "Carousel Interval"
+msgstr ""
+
+#: ../inc/theme-options.php:178
+msgid "Seconds"
+msgstr ""
+
+#: ../inc/theme-options.php:184
+msgid "Carousel Transition Effect"
+msgstr ""
+
+#: ../inc/theme-options.php:188 ../inc/widgets.php:281 ../inc/widgets.php:288
+msgid "None"
+msgstr ""
+
+#: ../inc/theme-options.php:189
+msgid "Slide"
+msgstr ""
+
+#: ../inc/theme-options.php:190
+msgid "Fade"
+msgstr ""
+
+#: ../inc/theme-options.php:193
+msgid ""
+"For better fading effect, make sure interval is greater than 7 seconds. The "
+"transition effects are not supported in IE."
+msgstr ""
+
+#: ../inc/theme-options.php:199 ../inc/theme-options.php:281
+msgid "Carousel Height"
+msgstr ""
+
+#: ../inc/theme-options.php:201 ../inc/theme-options.php:258
+#: ../inc/theme-options.php:266 ../inc/theme-options.php:283
+#: ../inc/theme-options.php:540
+msgid "Pixels"
+msgstr ""
+
+#: ../inc/theme-options.php:203 ../inc/theme-options.php:285
+msgid "Enter 0 to adjust height automatically."
+msgstr ""
+
+#: ../inc/theme-options.php:207
+msgid "Number of Posts"
+msgstr ""
+
+#: ../inc/theme-options.php:215 ../inc/theme-options.php:273
+msgid "Category"
+msgstr ""
+
+#: ../inc/theme-options.php:223
+msgid "Sticky Posts Only?"
+msgstr ""
+
+#: ../inc/theme-options.php:224
+msgid "Check to display sticky posts only."
+msgstr ""
+
+#: ../inc/theme-options.php:231
+msgid "Headline Banner"
+msgstr ""
+
+#: ../inc/theme-options.php:232
+msgid "Check to display H1 headline and tagline below Carousel."
+msgstr ""
+
+#: ../inc/theme-options.php:239
+msgid "Read More Button"
+msgstr "全文键"
+
+#: ../inc/theme-options.php:243
+msgid "Label for action button on Featured Posts."
+msgstr ""
+
+#: ../inc/theme-options.php:248
+msgid "Display Thubmnail"
+msgstr ""
+
+#: ../inc/theme-options.php:249
+msgid "Check to display post thumbnail."
+msgstr ""
+
+#: ../inc/theme-options.php:256
+msgid "Thubmnail Width"
+msgstr ""
+
+#: ../inc/theme-options.php:264
+msgid "Thubmnail Height"
+msgstr ""
+
+#: ../inc/theme-options.php:290
+msgid "Fixed Top Menu"
+msgstr ""
+
+#: ../inc/theme-options.php:291
+msgid "Check to fix the top menu."
+msgstr ""
+
+#: ../inc/theme-options.php:298
+msgid "Logo Position"
+msgstr ""
+
+#: ../inc/theme-options.php:302
+msgid "Inside Navigation Bar"
+msgstr ""
+
+#: ../inc/theme-options.php:303
+msgid "Above Navigation Bar"
+msgstr ""
+
+#: ../inc/theme-options.php:306
+msgid ""
+"If Logo is above navigation bar, site title & descriptio will NOT be "
+"displayed. Prefered size is 300 x 100."
+msgstr ""
+
+#: ../inc/theme-options.php:311
+msgid "Search Form"
+msgstr ""
+
+#: ../inc/theme-options.php:315
+msgid "Show"
+msgstr ""
+
+#: ../inc/theme-options.php:316
+msgid "Phone Only"
+msgstr ""
+
+#: ../inc/theme-options.php:317
+msgid "Hide"
+msgstr ""
+
+#: ../inc/theme-options.php:326
+msgid "Prettify"
+msgstr ""
+
+#: ../inc/theme-options.php:327
+msgid "Uncheck to disable code prettifier"
+msgstr ""
+
+#: ../inc/theme-options.php:334
+msgid "ColorBox"
+msgstr ""
+
+#: ../inc/theme-options.php:335
+msgid "Uncheck to disable the Colorbox JQuery Plugin"
+msgstr ""
+
+#: ../inc/theme-options.php:343
+msgid "Suppress \"Comments Closed\""
+msgstr ""
+
+#: ../inc/theme-options.php:344
+msgid "Check to suppress the message."
+msgstr ""
+
+#: ../inc/theme-options.php:355
+msgid "Save Options"
+msgstr ""
+
+#: ../inc/theme-options.php:410 ../inc/widgets.php:259
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/theme-options.php:445
+msgid "Options Saved"
+msgstr ""
+
+#: ../inc/theme-options.php:455
+msgid "Voyage"
+msgstr ""
+
+#: ../inc/theme-options.php:456
+msgid "Home Page"
+msgstr ""
+
+#: ../inc/theme-options.php:457
+msgid "Layout"
+msgstr ""
+
+#: ../inc/theme-options.php:458
+msgid "Header"
+msgstr ""
+
+#: ../inc/theme-options.php:459
+msgid "Post"
+msgstr ""
+
+#: ../inc/theme-options.php:460
+msgid "Social"
+msgstr ""
+
+#: ../inc/theme-options.php:461
+msgid "Addon"
+msgstr ""
+
+#: ../inc/theme-options.php:462
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/theme-options.php:472
+msgid "Welcome to Voyage Theme"
+msgstr ""
+
+#: ../inc/theme-options.php:473
+msgid "http://www.voyagebc.com/voyage-theme-documentation/"
+msgstr ""
+
+#: ../inc/theme-options.php:473
+msgid "Voyage Theme Documentation"
+msgstr ""
+
+#: ../inc/theme-options.php:474
+msgid "Current Logo"
+msgstr ""
+
+#: ../inc/theme-options.php:476
+msgid "Replace or remove the logo?"
+msgstr ""
+
+#: ../inc/theme-options.php:476
+#, php-format
+msgid "<a href=\"%s\">Click here</a>."
+msgstr ""
+
+#: ../inc/theme-options.php:477
+msgid "Additional Information"
+msgstr ""
+
+#: ../inc/theme-options.php:478
+msgid "http://www.voyagebc.com/voyage-theme-change-log/"
+msgstr ""
+
+#: ../inc/theme-options.php:478
+msgid "Change Log "
+msgstr ""
+
+#: ../inc/theme-options.php:479
+msgid "http://www.voyagebc.com/support/"
+msgstr ""
+
+#: ../inc/theme-options.php:479
+msgid "Support Forums "
+msgstr ""
+
+#: ../inc/theme-options.php:493
+msgid "Featured Home Page"
+msgstr ""
+
+#: ../inc/theme-options.php:514
+msgid "Post Summary"
+msgstr ""
+
+#: ../inc/theme-options.php:536
+msgid "Site Layout"
+msgstr ""
+
+#: ../inc/theme-options.php:537
+msgid "Grid Width"
+msgstr ""
+
+#: ../inc/theme-options.php:543
+msgid "Grid Column"
+msgstr ""
+
+#: ../inc/theme-options.php:546
+msgid "12 Columns"
+msgstr ""
+
+#: ../inc/theme-options.php:549
+msgid "16 Columns"
+msgstr ""
+
+#: ../inc/theme-options.php:552
+msgid "Grid Style"
+msgstr ""
+
+#: ../inc/theme-options.php:555
+msgid "Fluid"
+msgstr ""
+
+#: ../inc/theme-options.php:558
+msgid "Fixed"
+msgstr ""
+
+#: ../inc/theme-options.php:562
+msgid "Mobile Style"
+msgstr ""
+
+#: ../inc/theme-options.php:566
+msgid "Responsive"
+msgstr ""
+
+#: ../inc/theme-options.php:569
+msgid "Static"
+msgstr ""
+
+#: ../inc/theme-options.php:576 ..\..\voyage-bbp/functions.php:32
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../inc/theme-options.php:580
+msgid "Right"
+msgstr ""
+
+#: ../inc/theme-options.php:585
+msgid "Left"
+msgstr ""
+
+#: ../inc/theme-options.php:590
+msgid "Left & Right"
+msgstr ""
+
+#: ../inc/theme-options.php:596
+msgid "Width in Column(s)"
+msgstr ""
+
+#: ../inc/theme-options.php:602 ../inc/theme-options.php:615
+#: ../inc/theme-options.php:628 ..\..\voyage-bbp/functions.php:18
+#: ..\..\voyage-bbp/functions.php:26
+msgid "Columns"
+msgstr ""
+
+#: ../inc/theme-options.php:606
+msgid "Front Page"
+msgstr ""
+
+#: ../inc/theme-options.php:608
+msgid "Widths of Home Widget Areas"
+msgstr ""
+
+#: ../inc/theme-options.php:619
+msgid "Footer"
+msgstr ""
+
+#: ../inc/theme-options.php:621
+msgid "Widths of Footer Widget Areas"
+msgstr ""
+
+#: ../inc/theme-options.php:658
+msgid "Show Author"
+msgstr ""
+
+#: ../inc/theme-options.php:662
+msgid "Check to display Author Name or Biographical Info"
+msgstr ""
+
+#: ../inc/theme-options.php:678
+msgid "Display Social Links\t"
+msgstr ""
+
+#: ../inc/theme-options.php:681
+msgid "On Top"
+msgstr ""
+
+#: ../inc/theme-options.php:684
+msgid "On Bottom"
+msgstr ""
+
+#: ../inc/theme-options.php:688
+msgid "Catch Words"
+msgstr ""
+
+#: ../inc/theme-options.php:693
+msgid "URLs"
+msgstr ""
+
+#: ../inc/theme-options.php:708
+msgid "Turn on Social Sharing"
+msgstr ""
+
+#: ../inc/theme-options.php:712
+msgid "Check to display Social Share icons"
+msgstr ""
+
+#: ../inc/theme-options.php:717
+msgid "Share Button Label"
+msgstr ""
+
+#: ../inc/theme-options.php:721
+msgid "Label for sharing button"
+msgstr ""
+
+#: ../inc/theme-options.php:725
+msgid "Share Posts/Pages?"
+msgstr ""
+
+#: ../inc/theme-options.php:729
+msgid "Share Posts"
+msgstr ""
+
+#: ../inc/theme-options.php:731
+msgid "Share Pages"
+msgstr ""
+
+#: ../inc/theme-options.php:736
+msgid "Location on Single Post/Page"
+msgstr ""
+
+#: ../inc/theme-options.php:740 ../inc/theme-options.php:751
+msgid "Top"
+msgstr ""
+
+#: ../inc/theme-options.php:742 ../inc/theme-options.php:753
+msgid "Bottom"
+msgstr ""
+
+#: ../inc/theme-options.php:747
+msgid "Location on Post Summary/Archive"
+msgstr ""
+
+#: ../inc/theme-options.php:757
+msgid "Services"
+msgstr ""
+
+#: ../inc/theme-options.php:765
+msgid "No Sharing"
+msgstr ""
+
+#: ../inc/theme-options.php:766
+msgid "Standalone"
+msgstr ""
+
+#: ../inc/theme-options.php:767
+msgid "Share Button"
+msgstr ""
+
+#: ../inc/theme-options.php:798
+msgid "Custom CSS Style"
+msgstr ""
+
+#: ../inc/theme-options.php:860
+msgid "Follow Us"
+msgstr "关注我们"
+
+#: ../inc/widgets.php:15
+msgid "Use this widget to list your recent post summary"
+msgstr ""
+
+#: ../inc/widgets.php:16
+msgid "Recent Posts (Voyage)"
+msgstr ""
+
+#: ../inc/widgets.php:239 ../inc/widgets.php:458
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets.php:242
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/widgets.php:246
+msgid "Random Posts"
+msgstr ""
+
+#: ../inc/widgets.php:248
+msgid "No of Columns (1-4):"
+msgstr ""
+
+#: ../inc/widgets.php:251
+msgid "Category:"
+msgstr ""
+
+#: ../inc/widgets.php:273
+msgid "include sticky posts in the category"
+msgstr ""
+
+#: ../inc/widgets.php:275
+msgid "Thumbnail: "
+msgstr ""
+
+#: ../inc/widgets.php:276
+msgid "Thumbnail"
+msgstr ""
+
+#: ../inc/widgets.php:277
+msgid "Medium<br>"
+msgstr ""
+
+#: ../inc/widgets.php:278
+msgid "Large"
+msgstr ""
+
+#: ../inc/widgets.php:279
+msgid "Full"
+msgstr ""
+
+#: ../inc/widgets.php:280
+msgid "Custom"
+msgstr ""
+
+#: ../inc/widgets.php:283
+msgid "Custom size: "
+msgstr ""
+
+#: ../inc/widgets.php:283
+msgid " x "
+msgstr ""
+
+#: ../inc/widgets.php:285
+msgid "Intro Text: "
+msgstr ""
+
+#: ../inc/widgets.php:286
+msgid "Excerpt"
+msgstr ""
+
+#: ../inc/widgets.php:287
+msgid "Content"
+msgstr ""
+
+#: ../inc/widgets.php:291
+msgid "Display post meta"
+msgstr ""
+
+#: ../inc/widgets.php:300 ../inc/widgets.php:301
+msgid "Navigation Tabs (Voyage)"
+msgstr ""
+
+#: ../inc/widgets.php:360
+msgid "Recent"
+msgstr ""
+
+#: ../inc/widgets.php:462
+msgid "Categories Tab"
+msgstr ""
+
+#: ../inc/widgets.php:465
+msgid "Archives Tab"
+msgstr ""
+
+#: ../inc/widgets.php:468
+msgid "Recent Posts Tab"
+msgstr ""
+
+#: ../inc/widgets.php:471
+msgid "Tags Tab"
+msgstr ""
+
+#: ..\..\voyage-bbp/functions.php:16
+msgid "Content Width"
+msgstr ""
+
+#: ..\..\voyage-bbp/functions.php:24
+msgid "Sidebar Width"
+msgstr ""
+
+#: ..\..\voyage-bbp/functions.php:38
+msgid "Left "
+msgstr ""
+
+#: ..\..\voyage-bbp/functions.php:39
+msgid "Right "
+msgstr ""
+
+#: ..\..\voyage-bbp/functions.php:50
+msgid "bbPress Forum Options"
+msgstr ""
+
+#: ..\..\voyage-bbp/functions.php:61 ..\..\voyage-bbp/functions.php:63
+msgid "bbPress Widget Area"
+msgstr ""
+
+#: ..\..\voyage-bbp/bbpress/content-single-user.php:23
+#, php-format
+msgid "Edit Profile of User %s"
+msgstr ""
+
+#: ..\..\voyage-bbp/bbpress/content-single-user.php:23
+msgid "Change Profile"
+msgstr ""
+
+#: ..\..\voyage-bbp/bbpress/content-single-user.php:27
+msgid "Subscribed Topics"
+msgstr ""
+
+#: ..\..\voyage-bbp/bbpress/content-single-user.php:32
+msgid "Favorite Topics"
+msgstr ""
+
+#: ..\..\voyage-bbp/bbpress/content-single-user.php:40
+#, php-format
+msgid "Forum Role: %s"
+msgstr ""
+
+#: ..\..\voyage-bbp/bbpress/content-single-user.php:44
+msgid "Topics Started"
+msgstr ""

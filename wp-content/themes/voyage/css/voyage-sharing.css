@@ -1,0 +1,35 @@
+/* Override to Jetpack Sharing */
+div.sharedaddy div.sd-block {
+	border: none;
+}
+
+.sd-title {
+	display: none;
+}
+
+.sharing-icon-only {
+	float: left;
+	display: inline;
+	paddig-right: 5px;
+	margin-right: 5px;	
+/*	border-right: 1px solid #e1e1e1; */
+}
+
+.entry-meta-middle div.sharedaddy, 
+#content .entry-meta-middle div.sharedaddy, 
+#main .entry-meta-middle div.sharedaddy {
+	clear: none;
+	display: inline;
+	float: left;
+}
+.entry-meta-middle div.sharedaddy div.sd-block {
+	float: left;
+	width: auto !important;
+	padding: 0;	
+}
+
+div.sharedaddy .sd-content {
+	width: auto !important;
+	float: left;
+	clear:  both;
+}

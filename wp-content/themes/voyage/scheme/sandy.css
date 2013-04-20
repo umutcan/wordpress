@@ -1,0 +1,251 @@
+/* Color Scheme - Sand Green or Pattern Work
+* Designed by Lan
+*/
+
+/* Background */
+body {
+  background: url("images/texture.png");
+}
+
+body.custom-background {
+	background-image: none;	
+}
+
+.custom-background .site-header,
+.site-header {
+  background: url("images/patterns.png");
+  filter: none;
+}
+   
+.featured-wrapper,
+#main {
+    background: none;
+	filter: none;
+}
+
+#footer-widget-area {
+    border-bottom: 1px solid rgb(191, 191, 191);
+}
+
+#footer:after {
+  content: " ";
+  border-top: 10px solid #afdad8;
+  height: 80px;
+  display: block;
+  background: #eceae3 url("images/patterns.png");
+}
+
+.custom-background #footer .container_12,
+.custom-background #footer .container_16,
+#footer .container_12,
+#footer .container_16 {
+    margin-top: 10px;
+	background: #dcd9cd;
+	border-radius: 5px 5px 0 0;
+}
+
+.custom-background  #footer,
+.featured-fullwidth #footer {
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;	
+}
+.custom-background #main .container_12,
+.custom-background #main .container_16,
+#main .container_12,
+#main .container_16 {
+	background-color: #dcd9cd;
+	border-radius: 0 0 5px 5px;	
+}
+
+.titlebar {
+	background: none;
+	border-bottom: none;
+}
+
+/* Sidebar Widget */
+#sidebar_one .widget-container,
+#sidebar_two .widget-container {
+  padding: 10px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  border: 1px solid  #f3f3ef;
+  background: #f5f5f1;
+  -moz-box-shadow: 2px 2px 2px #f3f3ef;
+  -webkit-box-shadow: 2px 2px 2px #f3f3ef;
+  box-shadow: 2px 2px 2px #f3f3ef;
+  margin-bottom: 20px;  
+}
+
+#sidebar_one .widget-title,
+#sidebar_two .widget-title {
+	padding: 4px 0px 12px 0px;
+	border-bottom-color: #abd8d6;
+}
+
+#main .widget_nav_menu ul li a,
+#main .widget_pages ul li a,
+#main .widget_meta ul li a,
+#main .widget_archive ul li a,
+#main .widget_recent_entries ul li a,
+#main .widget_categories ul li a {
+	padding-left: 5px;
+	border-bottom: 1px solid #d8edec;
+}
+
+#main .widget_recent_entries ul a:before,
+#main .widget_archive ul a:before,
+#main .widget_meta ul a:before,
+#main .widget_nav_menu ul a:before,
+#main .widget_pages ul a:before,
+#main .widget_categories ul a:before {
+	background: none;
+	text-indent: 0px;
+	margin: 0;
+	font-family: "FontAwesome";
+	content: "\f101";
+}
+
+#main .widget_nav_menu ul ul a:before,
+#main .widget_pages ul ul a:before,
+#main .widget_categories ul ul a:before {
+	content: "\f105";
+}
+
+/* Link Color */
+a { color: #4d7ea8; }
+
+.widget-title { color: #63b6b1; }
+
+.entry-title {
+	font-size: 26px;
+	line-height: 32px;
+	border: none;
+}
+
+.entry-title a { color: #408885}
+
+.entry-title a:hover {
+	color: #7bc1be;
+	border-bottom: 2px solid transparent; 
+}
+
+/* Section Menu */
+#mainmenu {
+	margin: 0;
+	background: #afdad8;
+	border-top: 5px solid #736f60;
+}
+
+#branding .grid_12,
+#branding .grid_16 {
+	float: none;
+    display: block;
+	width: 70%;
+	margin: 20px auto;
+	border: 5px solid #736f60;	
+	background: #ffffff;
+	padding: 10px;
+	text-align: center;
+}
+
+#site-title a {
+    color: #63b6b1;
+
+}
+
+h3#site-title  {
+	display: block;
+	float: none;
+	filter: none;
+}
+
+h3#site-description {
+	display: block;
+	float: none;
+	margin-top: 0px;
+	color: #9b9b9b;	
+}
+
+.hentry {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #eae9e1;
+    background: none repeat scroll 0% 0% #ecebe3;
+    box-shadow: 0px 0px 3px 3px #eae9e1 inset;
+	margin-bottom: 10px;
+    border-bottom: none;
+}
+
+#mainmenu .search-query {
+	background-color: #ffffff;
+	border: none;
+	color: #888;
+}
+
+#mainmenu .navbar-inner {
+  border: none;
+  border-radius: none;
+  box-shadow: none;
+  background: #afdad8;
+}
+
+#mainmenu .nav > li > a {
+	text-shadow: none;
+	color: #404040;
+}
+
+#mainmenu .menu-item-depth-0.current-menu-item,
+#mainmenu.navbar-inverse .menu-item-depth-0.current-menu-item {
+	background-color: #c9e7e6;	
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a {
+  background-color: #8b9dc3;
+  background-image: -moz-linear-gradient(top, #d7eceb, #afdad8);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#d7eceb), to(#afdad8));
+  background-image: -webkit-linear-gradient(top, #d7eceb, #afdad8);
+  background-image: -o-linear-gradient(top, #d7eceb, #afdad8);
+  background-image: linear-gradient(to bottom, #d7eceb, #afdad8);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd7eceb', endColorstr='#ffafdad8', GradientType=0);
+}
+
+.dropdown-menu {
+    background-color: #f8f7f3;
+}
+
+/* Subsection Menu */
+.subsection-menu {
+	padding-bottom: 0px;
+}
+
+.subsection-menu li ul a {
+	background: #afdad8;           
+}
+
+.subsection-menu ul li a:hover,
+.subsection-menu ul li:hover > a {
+ 	border-bottom-color: #5bb3ae; 
+}
+
+.page-header {
+    border-bottom: 1px solid #736f60;
+}
+
+#respond {
+    background: #ddddd2;
+}
+
+.social-links a {
+	opacity: 0.8;	
+}
+
+#access .navbar-inner {
+	  background-color: rgba(205, 191, 186, 0.8);
+}
